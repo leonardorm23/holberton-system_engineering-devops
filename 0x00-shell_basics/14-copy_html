@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.hmtl /home
+cp /holberton-system_engineering-devops/0x00-shell_basics/*.hmtl /home
