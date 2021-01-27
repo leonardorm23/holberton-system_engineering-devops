@@ -1,3 +1,2 @@
 #!/bin/bash
-cp *.hmtl /root
-
+cp -n  *.hmtl /root
