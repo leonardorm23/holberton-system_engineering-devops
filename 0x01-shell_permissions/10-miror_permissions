@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo=777 hello
+chmod u=23, g=rw, o=r  hello
