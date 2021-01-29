@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+rwx dir*
+chmod 777 -R dir
