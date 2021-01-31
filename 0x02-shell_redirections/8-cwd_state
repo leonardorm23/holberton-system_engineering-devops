@@ -1,0 +1,3 @@
+#!/bin/bash
+cat >> ls_cwd_content
+"ls -la shows long format files and hidden files"
