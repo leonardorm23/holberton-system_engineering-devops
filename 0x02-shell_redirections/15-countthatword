@@ -1,2 +1,2 @@
 #!/bin/bash
-find -iname bin |wc -l /etc/passwd
+find . bin |wc -l /etc/passwd
