@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d [[:upper:]] [[:lower::]] [c]
+tr -d [[:upper:]] [[:lower::]] c
