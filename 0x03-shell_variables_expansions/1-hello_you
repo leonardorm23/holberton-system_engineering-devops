@@ -1,2 +1,2 @@
 #!/bin/bash
-u ="$user" | echo "hola $u"
+u ="$USER" | echo "hola $u"
