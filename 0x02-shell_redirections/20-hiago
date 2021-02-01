@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'c'[[:lower:]] [[:upper:]]
+tr -d 'c' '[:lower:]' '[:upper:]'
