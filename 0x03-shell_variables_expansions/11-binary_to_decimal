@@ -1,0 +1,2 @@
+#!/bin/bash
+let BINARY =$(echo "2#110")
