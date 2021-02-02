@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH= find . -type d | wc -l: $PATH
